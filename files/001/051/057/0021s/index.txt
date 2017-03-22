@@ -1,0 +1,17 @@
+ Personal Author:
+Myers, Mark.
+Title All:
+A smarter way to learn Javascript / Mark Myers.
+Author:
+Myers, Mark.
+Local Call Number:
+006.76 JAVASCRIPT
+ISBN:
+9781497408180
+Publication Information:
+[United States?] : ASmarterWayToLearn.com, c2014.
+Physical Description:
+xi, 293 p. : ill.; 26 cm.
+Subject Term:
+JavaScript (Computer program language)
+Holds: 0
