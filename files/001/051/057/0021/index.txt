@@ -1,0 +1,24 @@
+Personal Author: Duckett, Jon.
+Title All: JavaScript & JQuery : interactive front-end web development / Jon Duckett ; additional material by Gilles Ruppert & Jack Moore.
+Author: Duckett, Jon. Ruppert, Gilles. Moore, Jack.
+Local Call Number: 006.76 JAVASCRIPT
+ISBN: 9781118531648 9781118871652
+Physical Description: 622 pages : color illustrations ; 24 cm
+Contents: 
+The ABC of Programming -- 
+Basic JavaScript Instructions -- 
+Functions, Methods & Objects -- 
+Decisions & Loops -- 
+Document Object Model -- 
+Events -- 
+jQuery -- 
+Ajax & JSON -- 
+APIs -- 
+Error Handling & Debugging -- 
+Content Panels -- 
+Filtering, Searching & Sorting -- 
+Form Enhancement & Validation.
+
+Subject Term:
+JavaScript (Computer program language)
+OCLC: 829055899
