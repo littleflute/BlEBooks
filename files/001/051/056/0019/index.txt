@@ -1,0 +1,10 @@
+
+Personal Author: Langr, Jeff,
+Title All: Modern C++ programming with test-driven development : code better, sleep better / Jeff Langr ; foreword by Robert C. Martin (Uncle Bob) ; edited by Michael Swaine. Code better, sleep better
+Author: Langr, Jeff, Swaine, Michael.
+Local Call Number: 005.133 C++
+ISBN: 9781937785482
+Physical Description: 341 pages ; 24 cm
+Subject Term:
+C++ (Computer program language)
+OCLC: 863233526
