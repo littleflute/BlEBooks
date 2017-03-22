@@ -1,0 +1,20 @@
+Cover image for
+Personal Author:
+Munro, Jamie,
+Title All:
+Knockout.js : building dynamic client-side web applications / Jamie Munro.
+Author:
+Munro, Jamie,
+Local Call Number:
+005.376
+ISBN:
+9781491914311
+Edition:
+First edition.
+Physical Description:
+xi, 86 pages : illustrations ; 24 cm
+Subject Term:
+JavaScript (Computer program language)
+OCLC:
+893452720 893457293
+Holds: 0
