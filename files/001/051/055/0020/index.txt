@@ -1,0 +1,15 @@
+
+Personal Author: Dawson, Mike, 1947-
+Title All: Beginning C++ through game programming / Michael Dawson. Beginning C++ game programming.
+Author: Dawson, Mike, 1947- Dawson, Mike, 1947- Beginning C++ game programming.
+Local Call Number: 005.133 C++
+ISBN: 9781598633603
+Edition: 2nd ed.
+Publication Information: Boston, MA : Thomson Course Technology, c2007.
+Physical Description: xxii, 361 p. : ill. ; 23 cm. + 1 CD-ROM (4 3/4 in.)
+Contents: Types, variables, and standard I/O : lost fortune -- Truth, branching, and the game loop : guess my number -- For loops, strings, and arrays : word jumble -- The standard template library : hangman -- Functions : mad-lib -- References : tic-tac-toe -- Pointers : tic-tac-toe 2.0 -- Classes : critter caretaker -- Advanced classes and dynamic memory : game lobby -- Inheritance and polymorphism, : blackjack.
+Subject Term:
+Computer games -- Programming.
+C++ (Computer program language)
+OCLC: 148653846
+Holds: 0
